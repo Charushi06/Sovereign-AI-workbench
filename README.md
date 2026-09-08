@@ -1,1 +1,1 @@
-# Sovereign-AI-workbench
+# Sovereign-Agentic-AI-workbench
